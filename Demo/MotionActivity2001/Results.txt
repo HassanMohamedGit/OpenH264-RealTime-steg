@@ -1,0 +1,481 @@
+
+t1 =
+
+    'log/4people.orig.264.log'
+
+
+ans =
+
+    4.4290    0.1200    0.8800         0         0         0
+
+
+t1 =
+
+    'log/foreman_cif.orig.264.log'
+
+
+ans =
+
+   12.6172    0.0400    0.4800    0.1600    0.3200         0
+
+
+t1 =
+
+    'log/720p.Pexels_Videos_1234171.orig.264.log'
+
+
+ans =
+
+    3.4280    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/hall_cif.orig.264.log'
+
+
+ans =
+
+    2.8442    0.9200    0.0800         0         0         0
+
+
+t1 =
+
+    'log/720p.Pexels_Videos_1560989.orig.264.log'
+
+
+ans =
+
+    8.8286    0.0303    0.9394    0.0303         0         0
+
+
+t1 =
+
+    'log/harbour_cif.orig.264.log'
+
+
+ans =
+
+    4.1512    0.1600    0.8400         0         0         0
+
+
+t1 =
+
+    'log/720p.Pexels_Videos_1711831.orig.264.log'
+
+
+ans =
+
+   27.6607         0         0         0    1.0000         0
+
+
+t1 =
+
+    'log/HH.orig.264.log'
+
+
+ans =
+
+    1.8452    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/720p.Pexels_Videos_2053855.orig.264.log'
+
+
+ans =
+
+    2.0211    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/highway_cif.orig.264.log'
+
+
+ans =
+
+    7.7339         0    1.0000         0         0         0
+
+
+t1 =
+
+    'log/720p.Pexels_Videos_2916.orig.264.log'
+
+
+ans =
+
+   20.8938    0.0833         0    0.0833    0.8333         0
+
+
+t1 =
+
+    'log/husky_cif.orig.264.log'
+
+
+ans =
+
+   13.0751    0.2500    0.4500    0.0500    0.1000    0.1500
+
+
+t1 =
+
+    'log/akiyo_cif.orig.264.log'
+
+
+ans =
+
+    1.0620    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/ice_cif.orig.264.log'
+
+
+ans =
+
+    8.7590    0.0500    0.8000    0.1500         0         0
+
+
+t1 =
+
+    'log/BigBuckBunny_cif_24fps.orig.264.log'
+
+
+ans =
+
+   12.7404    0.0008    0.1535    0.8087    0.0268    0.0101
+
+
+t1 =
+
+    'log/KAS.orig.264.log'
+
+
+ans =
+
+    4.6283    0.2600    0.7400         0         0         0
+
+
+t1 =
+
+    'log/blue_sky_1080p25.orig.264.log'
+
+
+ans =
+
+   15.1045    0.0556         0    0.7778    0.1667         0
+
+
+t1 =
+
+    'log/mobcal.orig.264.log'
+
+
+ans =
+
+    8.1286    0.1190    0.6667    0.2143         0         0
+
+
+t1 =
+
+    'log/bowing_cif.orig.264.log'
+
+
+ans =
+
+   13.1271    0.1600    0.0800    0.4400    0.3200         0
+
+
+t1 =
+
+    'log/mobile_cif.orig.264.log'
+
+
+ans =
+
+    2.3512    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/bridge-close_cif.orig.264.log'
+
+
+ans =
+
+    0.4697    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/mother-daughter_cif.orig.264.log'
+
+
+ans =
+
+    3.8905    0.2400    0.7600         0         0         0
+
+
+t1 =
+
+    'log/bridge-far_cif.orig.264.log'
+
+
+ans =
+
+    0.6156    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/news_cif.orig.264.log'
+
+
+ans =
+
+    3.6162    0.3600    0.6400         0         0         0
+
+
+t1 =
+
+    'log/bus_cif.orig.264.log'
+
+
+ans =
+
+    9.5286    0.0833    0.7500    0.1667         0         0
+
+
+t1 =
+
+    'log/oldtown.orig.264.log'
+
+
+ans =
+
+    3.3809    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/city_cif.orig.264.log'
+
+
+ans =
+
+    3.1629    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/paris_cif.orig.264.log'
+
+
+ans =
+
+    3.6510    0.7841    0.2159         0         0         0
+
+
+t1 =
+
+    'log/coastguard_cif.orig.264.log'
+
+
+ans =
+
+    4.8868    0.2800    0.7200         0         0         0
+
+
+t1 =
+
+    'log/parkrun.orig.264.log'
+
+
+ans =
+
+    3.4062    0.7619    0.2381         0         0         0
+
+
+t1 =
+
+    'log/container_cif.orig.264.log'
+
+
+ans =
+
+    1.1822    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/pedestrian_area_1080p25.orig.264.log'
+
+
+ans =
+
+   45.4789    0.0323         0         0         0    0.9677
+
+
+t1 =
+
+    'log/crew_cif.orig.264.log'
+
+
+ans =
+
+   11.6362    0.0400    0.3600    0.5600    0.0400         0
+
+
+t1 =
+
+    'log/sign_irene_cif.orig.264.log'
+
+
+ans =
+
+    7.4369    0.0222    0.9778         0         0         0
+
+
+t1 =
+
+    'log/crowd_run_1080p50.orig.264.log'
+
+
+ans =
+
+    9.1563         0    0.8780    0.1220         0         0
+
+
+t1 =
+
+    'log/silent_cif.orig.264.log'
+
+
+ans =
+
+    7.6886    0.0800    0.9200         0         0         0
+
+
+t1 =
+
+    'log/deadline_cif.orig.264.log'
+
+
+ans =
+
+    5.2674    0.0702    0.9298         0         0         0
+
+
+t1 =
+
+    'log/sintel_trailer_2k_1080p24.orig.264.log'
+
+
+ans =
+
+   32.1798    0.0288    0.0096    0.0096    0.4615    0.4904
+
+
+t1 =
+
+    'log/ducks.orig.264.log'
+
+
+ans =
+
+    4.7707    0.1707    0.8293         0         0         0
+
+
+t1 =
+
+    'log/soccer_cif.orig.264.log'
+
+
+ans =
+
+   21.9948    0.0400    0.1200    0.2400    0.4000    0.2000
+
+
+t1 =
+
+    'log/ElephantsDream_cif_24fps.orig.264.log'
+
+
+ans =
+
+   18.5800    0.0015    0.0367    0.4285    0.5333         0
+
+
+t1 =
+
+    'log/stefan_cif.orig.264.log'
+
+
+ans =
+
+   11.0455    0.1429         0    0.8571         0         0
+
+
+t1 =
+
+    'log/factory_1080p30.orig.264.log'
+
+
+ans =
+
+   71.4088    0.0090         0         0    0.0450    0.9459
+
+
+t1 =
+
+    'log/students_cif.orig.264.log'
+
+
+ans =
+
+    2.3519    1.0000         0         0         0         0
+
+
+t1 =
+
+    'log/flower_cif.orig.264.log'
+
+
+ans =
+
+    3.8931    0.8000    0.2000         0         0         0
+
+
+t1 =
+
+    'log/tempete_cif.orig.264.log'
+
+
+ans =
+
+    5.5719         0    1.0000         0         0         0
+
+
+t1 =
+
+    'log/football_b_cif.orig.264.log'
+
+
+ans =
+
+   33.2005         0         0    0.0952    0.2381    0.6667
+
+
+t1 =
+
+    'log/waterfall_cif.orig.264.log'
+
+
+ans =
+
+    1.4200    1.0000         0         0         0         0
+
+>> 
