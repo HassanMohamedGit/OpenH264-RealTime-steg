@@ -1,6 +1,6 @@
 # OpenH264-RealTime-steg
 
-## Real-Time Motion Estimation Based Video Steganography with Preserved Consistency and Local Optimality
+## Implementation for Real-Time Motion Estimation Based Video Steganography with Preserved Consistency and Local Optimality
 
 
 ## License
