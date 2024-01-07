@@ -11,6 +11,6 @@
 
 ### How to use:
  - All video files under test must be placed in the folder ***vid/***.
- - From the Linux version of Matlab, just run the M-file ***Main.m***.
+ - From the Linux version of Matlab, just run the M-file ***Main.m***. If you have only the Windows version of Matlab, just run the bash script ***Extract_mvs.sh*** under a 64-bit-Linux machine, then run the M-file ***Main.m*** from the Windows-based Matlab.
  - The results of each file will be found in Matlab's debugging console.
  - Use the template spreadsheet ***Results.ods*** to organize and calculate the average MAI per each video file.
