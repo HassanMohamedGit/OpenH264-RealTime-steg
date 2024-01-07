@@ -1,7 +1,7 @@
 ### Contents:
 - **vid/**:  Videos of the expirement.
 - **MPEG-7 Visual Motion Descriptors.pdf**: Reference IEEE paper for Motion-Activity-Index (MAI).
-- **extract_mvs**: Statically-linked (No dependency needed) executable file to extract the Motion-vectors from video files. The source code was obtained from the FFMPEG library's examples.
+- **extract_mvs**: ELF-64 Linux-based statically-linked (No dependency needed) executable file to extract the Motion-vectors from video files. The source code was obtained from the FFMPEG library's examples.
 - **Extract_mvs.sh**: Bash script to excute ***extract_mvs*** for all video files in the folder ***vid/***..
 - **activity/**: Folder contains MAI for each video file in ***vid/***.
 - **log/**: Folder contains logs for each video file in ***vid/***.
