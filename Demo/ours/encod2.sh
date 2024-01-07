@@ -13,8 +13,8 @@ done
 
 for i in $A
 do
-bash encod2Partial.sh bin/zwelsench.cfg ../YUV/cif/$i.yuv vid/$i.Full h264enc.steg &
-echo $i.Full Done.
+bash encod2Partial.sh bin/zwelsench.cfg ../YUV/cif/$i.yuv vid/$i.Steg h264enc.steg &
+echo $i.Steg Done.
 done
 
 
@@ -28,8 +28,8 @@ done
 
 for i in $B
 do
-bash encod2Partial.sh bin/zwelsench3.cfg ../YUV/720p/$i.yuv vid/$i.Full h264enc.steg &
-echo $i.Full Done.
+bash encod2Partial.sh bin/zwelsench3.cfg ../YUV/720p/$i.yuv vid/$i.Steg h264enc.steg &
+echo $i.Steg Done.
 done
 
 ###############################################################################################
@@ -42,8 +42,8 @@ done
 
 for i in $C
 do
-bash encod2Partial.sh bin/zwelsench4.cfg ../YUV/1080p/$i.yuv vid/$i.Full h264enc.steg &
-echo $i.Full Done.
+bash encod2Partial.sh bin/zwelsench4.cfg ../YUV/1080p/$i.yuv vid/$i.Steg h264enc.steg &
+echo $i.Steg Done.
 done
 
 rm bin/.welsench.cfg
