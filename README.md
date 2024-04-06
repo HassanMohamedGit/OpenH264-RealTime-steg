@@ -10,7 +10,7 @@ All rights reserved.
 
 This software should be used, reproduced, and modified only for informational and nonprofit purposes.
 
-### This repo contains the complete description of the experimental results in the paper "Real-Time Motion Estimation Based Video Steganography with Preserved Consistency and Local Optimality" (under review).
+### This repo contains the complete description of the experimental results in the paper "Real-Time Motion Estimation Based Video Steganography with Preserved Consistency and Local Optimality" [1].
 
 ## The structure of the repo is:
 ### 1. Demo:
@@ -28,3 +28,4 @@ The resultant features in Table 3 in "**Real-Time Motion Estimation Based Video 
 ## Acknowledgement:
 The implementation of MVMPLO and MVC12 are provided by Dr. Liming Zhai, the author of "Universal Detection of Video Steganography in Multiple Domains Based on the Consistency of Motion Vectors".
 
+[1] Mohamed, H., Elliethy, A., Abdelaziz, A., & Aly, H. (2024). Real-time motion estimation based video steganography with preserved consistency and local optimality. Multimedia Tools and Applications. https://doi.org/10.1007/s11042-024-18651-9
